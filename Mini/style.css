@@ -1,0 +1,143 @@
+body{
+    /* background-color: aqua; */
+}
+.header{
+    background-color: white;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.dropdownwidth{
+    width: 1190px;
+    height: 500px;
+}
+
+.txtflx{
+    gap: 30px;
+}
+.drpkaitems{
+    font-size: 18px;
+    font-weight: bold;
+    color: #001C64;
+}
+.txtflx div{
+    color: #001C64;
+    font-size: 16px;
+}
+
+.dropdownwidth a{
+    color: #001C64;
+    font-size: 28px;
+}
+
+.fa-angle-down{
+   /* border: 2px solid red; */
+}
+.button3s{
+    /* border: 2px solid red; */
+    width: 500px;
+    gap: 20px;
+}
+
+.button3s :nth-child(1){
+    border: none;
+    color: #001C64;
+    font-size: larger;
+    font-weight: bold;
+ border-radius: 50px;
+
+}
+
+.button3s :nth-child(1):hover{
+    border:1px solid #001C64;
+    color:#0070e0;
+    font-size: larger;
+    font-weight: bold;
+ border-radius: 50px;
+
+}
+
+
+.button3s :nth-child(2){
+ width: 150px;
+ border-radius: 50px;
+ color: #001C64;
+ font-size: larger;
+ font-weight: bold;
+ border: 2px solid #001C64;
+ /* padding-left: 50px;
+ padding-right: 50px; */
+}
+
+.button3s :nth-child(2):hover{
+    width: 150px;
+    border-radius: 50px;
+    color: #0070e0;
+    font-size: larger;
+    font-weight: bold;
+    border: 2px solid #0070e0;
+    /* padding-left: 50px;
+    padding-right: 50px; */
+    background-color: white;
+}
+
+.button3s :nth-child(3){
+    width: 150px;
+    border-radius: 50px;
+    color: white;
+    font-size: larger;
+    font-weight: bold;
+    border: 2px solid #001C64;
+    /* padding-left: 50px;
+    padding-right: 50px; */
+    background-color: #001C64;
+   }
+   
+   .button3s :nth-child(3):hover{
+       width: 150px;
+       border-radius: 50px;
+       color: white;
+       font-size: larger;
+       font-weight: bold;
+       border: 2px solid #0070e0;
+       /* padding-left: 50px;
+       padding-right: 50px; */
+       background-color: #0070e0;
+   }
+
+.main{
+    width: 100%;
+    height: 95vh;
+    background-color: #142C8E;
+}   
+
+.main1{
+    /* border: 2px solid red; */
+    height: 120px;
+    align-items:center;
+    gap:5px;
+    /* font-size: ; */
+}
+
+.main1 h2{
+    font-size: 20px;
+}
+
+.main1 a{
+    font-size: 20px;
+text-decoration: none;
+}
+.main1 a:hover{
+    text-decoration:underline;
+}
+.main1 i:hover{
+    margin-left: 5px;
+}
+
+.main2{
+    border: 2px solid red;
+    width: 100%;
+    height:85vh ;
+}
+
+
